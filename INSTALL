@@ -1,0 +1,9 @@
+Building Dubaicash
+
+See doc/readme-qt.rst for instructions on building Dubaicash-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Dubaicash.
+
+See doc/build-*.txt for instructions on building Dubaicashd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Dubaicash.

@@ -1407,8 +1407,8 @@ Address: %4
     </message>
     <message>
         <location line="+34"/>
-        <source>The address to send the payment to (e.g. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</source>
-        <translation>Адрес, на который будет выслан платёж (например H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</translation>
+        <source>The address to send the payment to (e.g. cBbVaiWtauZMCFh1d1QEYTbnC4n4BvpgfH)</source>
+        <translation>Адрес, на который будет выслан платёж (например cBbVaiWtauZMCFh1d1QEYTbnC4n4BvpgfH)</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -1448,7 +1448,7 @@ Address: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Dubaicash address (e.g. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</source>
+        <source>Enter a Dubaicash address (e.g. cBbVaiWtauZMCFh1d1QEYTbnC4n4BvpgfH)</source>
         <translation>Введите Dubaicash-адрес (например 1LA5FtQhnnWnkK6zjFfutR7Stiit4wKd63)</translation>
     </message>
 </context>
@@ -1471,8 +1471,8 @@ Address: %4
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</source>
-        <translation>Адрес, которым вы хотите подписать сообщение  (напр. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</translation>
+        <source>The address to sign the message with (e.g. cBbVaiWtauZMCFh1d1QEYTbnC4n4BvpgfH)</source>
+        <translation>Адрес, которым вы хотите подписать сообщение  (напр. cBbVaiWtauZMCFh1d1QEYTbnC4n4BvpgfH)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1544,8 +1544,8 @@ Address: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</source>
-        <translation>Адрес, которым было подписано сообщение (напр. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</translation>
+        <source>The address the message was signed with (e.g. cBbVaiWtauZMCFh1d1QEYTbnC4n4BvpgfH)</source>
+        <translation>Адрес, которым было подписано сообщение (напр. cBbVaiWtauZMCFh1d1QEYTbnC4n4BvpgfH)</translation>
     </message>
     <message>
         <location line="+40"/>
@@ -1565,8 +1565,8 @@ Address: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Dubaicash address (e.g. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</source>
-        <translation>Введите адрес Dubaicash (напр. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</translation>
+        <source>Enter a Dubaicash address (e.g. cBbVaiWtauZMCFh1d1QEYTbnC4n4BvpgfH)</source>
+        <translation>Введите адрес Dubaicash (напр. cBbVaiWtauZMCFh1d1QEYTbnC4n4BvpgfH)</translation>
     </message>
     <message>
         <location line="-2"/>

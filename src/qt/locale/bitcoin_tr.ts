@@ -1407,8 +1407,8 @@ Adres: %4
     </message>
     <message>
         <location line="+34"/>
-        <source>The address to send the payment to (e.g. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</source>
-        <translation>Ödemenin gönderileceği adres (mesela H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</translation>
+        <source>The address to send the payment to (e.g. cBbVaiWtauZMCFh1d1QEYTbnC4n4BvpgfH)</source>
+        <translation>Ödemenin gönderileceği adres (mesela cBbVaiWtauZMCFh1d1QEYTbnC4n4BvpgfH)</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -1448,8 +1448,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Dubaicash address (e.g. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</source>
-        <translation>Dubaicash adresi giriniz (mesela H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</translation>
+        <source>Enter a Dubaicash address (e.g. cBbVaiWtauZMCFh1d1QEYTbnC4n4BvpgfH)</source>
+        <translation>Dubaicash adresi giriniz (mesela cBbVaiWtauZMCFh1d1QEYTbnC4n4BvpgfH)</translation>
     </message>
 </context>
 <context>
@@ -1471,8 +1471,8 @@ Adres: %4
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</source>
-        <translation>Mesajın imzalanmasında kullanılacak adres (mesela H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</translation>
+        <source>The address to sign the message with (e.g. cBbVaiWtauZMCFh1d1QEYTbnC4n4BvpgfH)</source>
+        <translation>Mesajın imzalanmasında kullanılacak adres (mesela cBbVaiWtauZMCFh1d1QEYTbnC4n4BvpgfH)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1544,8 +1544,8 @@ Adres: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</source>
-        <translation>Mesajı imzalamak için kullanılmış olan adres (mesela H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</translation>
+        <source>The address the message was signed with (e.g. cBbVaiWtauZMCFh1d1QEYTbnC4n4BvpgfH)</source>
+        <translation>Mesajı imzalamak için kullanılmış olan adres (mesela cBbVaiWtauZMCFh1d1QEYTbnC4n4BvpgfH)</translation>
     </message>
     <message>
         <location line="+40"/>
@@ -1565,8 +1565,8 @@ Adres: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Dubaicash address (e.g. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</source>
-        <translation>Dubaicash adresi giriniz (mesela H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</translation>
+        <source>Enter a Dubaicash address (e.g. cBbVaiWtauZMCFh1d1QEYTbnC4n4BvpgfH)</source>
+        <translation>Dubaicash adresi giriniz (mesela cBbVaiWtauZMCFh1d1QEYTbnC4n4BvpgfH)</translation>
     </message>
     <message>
         <location line="-2"/>

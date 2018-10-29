@@ -32,7 +32,7 @@ SendCoinsDialog::SendCoinsDialog(QWidget *parent) :
 #endif
 #if QT_VERSION >= 0x040700
     /* Do not move this to the XML file, Qt before 4.7 will choke on it */
-    ui->lineEditCoinControlChange->setPlaceholderText(tr("Enter a Dubaicash address (e.g. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)"));
+    ui->lineEditCoinControlChange->setPlaceholderText(tr("Enter a Dubaicash address (e.g. cBbVaiWtauZMCFh1d1QEYTbnC4n4BvpgfH)"));
 #endif
 
     addEntry();

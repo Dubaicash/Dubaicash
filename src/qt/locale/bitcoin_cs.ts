@@ -1407,8 +1407,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+34"/>
-        <source>The address to send the payment to (e.g. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</source>
-        <translation>Adresa příjemce (např. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</translation>
+        <source>The address to send the payment to (e.g. cBbVaiWtauZMCFh1d1QEYTbnC4n4BvpgfH)</source>
+        <translation>Adresa příjemce (např. cBbVaiWtauZMCFh1d1QEYTbnC4n4BvpgfH)</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -1448,8 +1448,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Dubaicash address (e.g. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</source>
-        <translation>Zadej Dubaicashovou adresu (např. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</translation>
+        <source>Enter a Dubaicash address (e.g. cBbVaiWtauZMCFh1d1QEYTbnC4n4BvpgfH)</source>
+        <translation>Zadej Dubaicashovou adresu (např. cBbVaiWtauZMCFh1d1QEYTbnC4n4BvpgfH)</translation>
     </message>
 </context>
 <context>
@@ -1471,8 +1471,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</source>
-        <translation>Adresa, kterou se zpráva podepíše (např. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</translation>
+        <source>The address to sign the message with (e.g. cBbVaiWtauZMCFh1d1QEYTbnC4n4BvpgfH)</source>
+        <translation>Adresa, kterou se zpráva podepíše (např. cBbVaiWtauZMCFh1d1QEYTbnC4n4BvpgfH)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1544,8 +1544,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</source>
-        <translation>Adresa, kterou je zpráva podepsána (např. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</translation>
+        <source>The address the message was signed with (e.g. cBbVaiWtauZMCFh1d1QEYTbnC4n4BvpgfH)</source>
+        <translation>Adresa, kterou je zpráva podepsána (např. cBbVaiWtauZMCFh1d1QEYTbnC4n4BvpgfH)</translation>
     </message>
     <message>
         <location line="+40"/>
@@ -1565,8 +1565,8 @@ Adresa: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Dubaicash address (e.g. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</source>
-        <translation>Zadej Dubaicashovou adresu (např. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</translation>
+        <source>Enter a Dubaicash address (e.g. cBbVaiWtauZMCFh1d1QEYTbnC4n4BvpgfH)</source>
+        <translation>Zadej Dubaicashovou adresu (např. cBbVaiWtauZMCFh1d1QEYTbnC4n4BvpgfH)</translation>
     </message>
     <message>
         <location line="-2"/>
